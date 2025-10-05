@@ -8,6 +8,7 @@ body {
 .link {
     color: #000066;
     text-decoration: underline;
+    font-weight: bold;
 }
 
 .intro {
